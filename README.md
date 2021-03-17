@@ -1,5 +1,7 @@
 ## react_auth
 
-> - Backend
+> - Backend:
+MongoDB
+Node.js
 
 
